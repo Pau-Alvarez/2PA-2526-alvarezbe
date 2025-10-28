@@ -1,19 +1,15 @@
-//#include porfa
+#include "mock_parcheesi.h"
+#include "game.h"
+
 int main(){
-  Parcheesi parchis{4};  //Instancia
+  MockParcheesi myp;
+  const IPlayer* players[4]={nullptr,nullptr,nullptr,nullptr};
+  Game g{myp,players};
 
-  int entero_construido_con_parametros{1};
+  while(g.IsGameOver() == IParcheesi::Color::None){
+    g.PlayTurn();
+  }
 
-  srand(time(NULL));
-
- 
-  bool win = false;
-  do{
-
-  }while(!win);
-
-  
   return 0;
 }
 
-    

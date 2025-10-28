@@ -1,7 +1,5 @@
+to build
 
-
-parcheesi.cc
-
-
-player.cc
-
+cd parcheesi
+premake5.exe vs2022
+cd build
