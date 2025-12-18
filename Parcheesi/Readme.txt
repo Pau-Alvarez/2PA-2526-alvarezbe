@@ -1,1 +1,1 @@
-He perdido mi versión final del Parcheesi funcional antigua he intentado corregirla lo máximo posible pero no he conseguido que funcione al 100% tiene algunos errores con los ilegal moves pero la gran parte de la lógica está ahí.
+He perdido mi versión final del Parcheesi funcional antigua, he intentado corregirla lo máximo posible pero no he conseguido que funcione al 100%, trabajar con código antiguo aún me cuesta, tiene algunos errores con los ilegal moves pero la gran parte de la lógica está ahí.

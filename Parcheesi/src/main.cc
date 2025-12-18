@@ -1,4 +1,3 @@
-// main.cc (corregido)
 #include <windows.h>
 #include "pabparcheesi.h"
 #include "game.h"
