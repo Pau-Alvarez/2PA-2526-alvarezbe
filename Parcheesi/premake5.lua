@@ -12,6 +12,6 @@ project "Parcheesi"
 
    files
    {
-      "**.h",
-      "**.cc"
+      "src/**.h",
+      "src/**.cc"
    }
